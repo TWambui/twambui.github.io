@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: True # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there :). I'm Tanner, a researcher, engineer, motorsports enthusiast and 3rd year PhD student at the University of Missouri - Columbia (Mizzou). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As part of the [Titan Lab](https://um-titan.github.io/react_titan/), supervised by [Dr. Yaw Adu-Gyamfi](https://engineering.missouri.edu/faculty/yaw-adu-gyamfi/) my research currently focuses on merging artificial intelligence, robotics, and infrastructure systems to create smarter, more sustainable cities. At the core of which I aim to create solutions that not only technically advanced but also ethical, accessible, and sustainable.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining Mizzou, I obtained my master’s and bachelor’s degrees at the Middle East Technical University  and interned at the Kenya National Roads and Highways Authority. During this time, I became increasingly aware of the technological gap between developing and developed regions—an observation that inspired my pursuit of accessible and sustainable AI solutions that can bridge this divide.
+
+When I’m not running experiments or training models, you’ll likely find me exploring new ideas that connect technology, design, and society — or simply taking time to recharge through my favorite hobies of watching Motorsport racing and smelling the roses if the weather's good. 
