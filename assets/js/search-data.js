@@ -508,14 +508,14 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/TWambui# your GitHub user name", "_blank");
+          window.open("https://github.com/TWambui", "_blank");
         },
       },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/tanner_muturi# your instagram id", "_blank");
+          window.open("https://instagram.com/tanner_muturi", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -525,11 +525,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/tannermuturi", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0001-8388-9092", "_blank");
+          window.open("https://scholar.google.com/citations?user=YfE9zwwAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
