@@ -194,6 +194,8 @@ exclude:
   - _pages/blog.md
   - _pages/projects.md
   - _pages/dropdown.md
+  - _news/announcement_2.md
+  - _news/announcement_3.md
   - purgecss.config.js
   - README.md
   - readme_preview/
