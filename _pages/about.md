@@ -35,4 +35,4 @@ Prior to joining Mizzou, I obtained my master’s and bachelor’s degrees at th
 
 When I’m not running experiments or training models, you’ll likely find me exploring new ideas that connect technology, design, and society — or simply taking time to recharge through my favorite hobies of watching Motorsport racing and smelling the roses if the weather's good. 
 
-[CV]("https://drive.google.com/file/d/1tzlFfDqpOnj53s3hu72iv2SHY4E7yiQl/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1tzlFfDqpOnj53s3hu72iv2SHY4E7yiQl/view?usp=sharing)
