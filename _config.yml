@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Tanner
-middle_name: W.
-last_name: Muturi
+first_name: Tanner W. Muturi
+middle_name:
+last_name:
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -193,6 +193,7 @@ exclude:
   - _pages/profiles.md
   - _pages/blog.md
   - _pages/projects.md
+  - _pages/cv.md
   - _pages/dropdown.md
   - _news/announcement_2.md
   - _news/announcement_3.md

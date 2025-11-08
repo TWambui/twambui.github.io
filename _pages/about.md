@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -34,3 +34,5 @@ As part of the [Titan Lab](https://um-titan.github.io/react_titan/), supervised 
 Prior to joining Mizzou, I obtained my master’s and bachelor’s degrees at the Middle East Technical University  and interned at the Kenya National Roads and Highways Authority. During this time, I became increasingly aware of the technological gap between developing and developed regions—an observation that inspired my pursuit of accessible and sustainable AI solutions that can bridge this divide.
 
 When I’m not running experiments or training models, you’ll likely find me exploring new ideas that connect technology, design, and society — or simply taking time to recharge through my favorite hobies of watching Motorsport racing and smelling the roses if the weather's good. 
+
+[CV]("https://drive.google.com/file/d/1tzlFfDqpOnj53s3hu72iv2SHY4E7yiQl/view?usp=sharing)
